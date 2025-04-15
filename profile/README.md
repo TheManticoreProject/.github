@@ -6,6 +6,12 @@ The Manticore Project is a collective of developers and security enthusiasts ded
 
 ---
 
+## They support the project!
+
+ + <img src="https://www.bsecure.fr/wp-content/uploads/2024/06/Logo-BS-Black-300x105.png" height=15px> [BSecure](https://www.bsecure.fr/): For providing hardware to [Remi GASCOU (Podalirius)](https://github.com/p0dalirius) to allow multi-platform tool testing.
+
+---
+
 <details open><summary><h3>Libraries</h3></summary><ul>
 <li><a href="https://www.github.com/TheManticoreProject/winacl">winacl</a>: A cross platform Go library to work with Windows Security Descriptors</li>
 <li><a href="https://www.github.com/TheManticoreProject/goopts">goopts</a>: A cross platform Go library to parse arguments given in command line to a program</li>
