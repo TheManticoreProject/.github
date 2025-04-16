@@ -20,17 +20,27 @@ The Manticore Project is a collective of Go developers and security researchers 
 
 ---
 
-## Socials
-
+<details open><summary><h3>Socials</h3></summary>
 You can find us on the following platforms:
 
-+ For general information and announcements:
-    - Reddit: https://www.reddit.com/r/TheManticoreProject/
-    - LinkedIn: https://www.linkedin.com/company/themanticoreproject/
-    - Website: https://themanticoreproject.com/
+<ul>
+    <li>For general information and announcements:
+        <ul>
+            <li>Reddit: <a href="https://www.reddit.com/r/TheManticoreProject/">https://www.reddit.com/r/TheManticoreProject/</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/company/themanticoreproject/">https://www.linkedin.com/company/themanticoreproject/</a></li>
+            <li>Website: <a href="https://themanticoreproject.com/">https://themanticoreproject.com/</a></li>
+        </ul>
+    </li>
+    <li>For code and development:
+        <ul>
+            <li>Github: <a href="https://github.com/TheManticoreProject">https://github.com/TheManticoreProject</a></li>
+        </ul>
+    </li>
+    <li>For community and discussion:
+        <ul>
+            <li>Discord: <a href="https://discord.gg/TVmVFCp7ky">https://discord.gg/TVmVFCp7ky</a></li>
+        </ul>
+    </li>
+</ul>
 
-+ For code and development:
-    - Github: https://github.com/TheManticoreProject
-
-+ For community and discussion:
-    - Discord: https://discord.gg/TVmVFCp7ky
+</details>
