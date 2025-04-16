@@ -2,7 +2,7 @@
 
 ---
 
-The Manticore Project is a collective of developers and security enthusiasts dedicated to building both offensive and defensive security tools, with the shared goal of strengthening the overall security posture of the community.
+The Manticore Project is a collective of Go developers and security researchers dedicated to building offensive and defensive security tools, with the shared goal of strengthening the overall security posture of the community.
 
 ---
 
