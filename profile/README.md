@@ -22,7 +22,7 @@ The Manticore Project is a collective of Go developers and security researchers 
 
 <details open><summary><h3>Socials</h3></summary>
 You can find us on the following platforms:
-
+<br>
 <ul>
     <li>For general information and announcements:
         <ul>
