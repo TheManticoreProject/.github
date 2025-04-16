@@ -8,7 +8,7 @@ The Manticore Project is a collective of Go developers and security researchers 
 
 ## They support the project!
 
- + <img src="https://www.bsecure.fr/wp-content/uploads/2024/06/Logo-BS-Black-300x105.png" height=15px> [BSecure](https://www.bsecure.fr/): Has provided hardware to [Remi GASCOU (Podalirius)](https://github.com/p0dalirius) to allow multi-platform tool testing.
+ + <img src="./assets/bsecure.png" height=15px> [BSecure](https://www.bsecure.fr/): Has provided hardware to [Remi GASCOU (Podalirius)](https://github.com/p0dalirius) to allow multi-platform tool testing.
 
 ---
 
