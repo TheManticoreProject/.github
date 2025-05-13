@@ -7,8 +7,9 @@ The Manticore Project is a collective of Go developers and security researchers 
 ---
 
 <details open><summary><h3>Libraries</h3></summary><ul>
-<li><a href="https://www.github.com/TheManticoreProject/winacl">winacl</a>: A library to work with Windows Security Descriptors</li>
-<li><a href="https://www.github.com/TheManticoreProject/goopts">goopts</a>: A library to parse arguments given in command line to a program</li>
+    <li><a href="https://www.github.com/TheManticoreProject/Manticore">winacl</a>: A cross platform library to write offensive and defensive security tools in Go </li>
+    <li><a href="https://www.github.com/TheManticoreProject/goopts">goopts</a>: A library to parse arguments given in command line to a program</li>
+    <li><a href="https://www.github.com/TheManticoreProject/winacl">winacl</a>: A library to work with Windows Security Descriptors</li>
 </ul>
 </details>
 
