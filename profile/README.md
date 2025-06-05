@@ -35,6 +35,7 @@ You can find us on the following platforms:
             <li>Reddit: <a href="https://www.reddit.com/r/TheManticoreProject/">https://www.reddit.com/r/TheManticoreProject/</a></li>
             <li>LinkedIn: <a href="https://www.linkedin.com/company/themanticoreproject/">https://www.linkedin.com/company/themanticoreproject/</a></li>
             <li>Website: <a href="https://themanticoreproject.com/">https://themanticoreproject.com/</a></li>
+            <li>YouTube: <a href="https://www.youtube.com/@The-Manticore-Project">https://www.youtube.com/@The-Manticore-Project</a></li>
         </ul>
     </li>
     <li>For code and development:
