@@ -45,7 +45,7 @@ You can find us on the following platforms:
     </li>
     <li>For community and discussion:
         <ul>
-            <li>Discord: <a href="https://discord.gg/TVmVFCp7ky">https://discord.gg/TVmVFCp7ky</a></li>
+            <li>Discord: <a href="https://discord.gg/w8TNWB6TNb">https://discord.gg/w8TNWB6TNb</a></li>
         </ul>
     </li>
 </ul>
