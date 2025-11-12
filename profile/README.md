@@ -8,6 +8,7 @@ The Manticore Project is a collective of Go developers and security researchers 
 
 <details open><summary><h3>Tools</h3></summary><ul>
     <li><a href="https://www.github.com/TheManticoreProject/Delegations">Delegations</a>: A tool to work with all types of Kerberos delegations (unconstrained, constrained, and resource-based constrained delegations) in Active Directory</li>
+    <li><a href="https://www.github.com/TheManticoreProject/DescribeKeyCredentialLink">DescribeKeyCredentialLink</a>: A cross-platform tool to parse and describe the contents of a raw msDS-KeyCredentialLink data blob</li>
     <li><a href="https://www.github.com/TheManticoreProject/DescribeNTSecurityDescriptor">DescribeNTSecurityDescriptor</a>: A cross-platform tool to parse and describe the contents of a raw ntSecurityDescriptor structure</li>
     <li><a href="https://www.github.com/TheManticoreProject/FindGPPPasswords">FindGPPPasswords</a>: A cross-platform tool to find and decrypt Group Policy Preferences passwords from the SYSVOL share using low-privileged domain accounts</li>
     <li><a href="https://www.github.com/TheManticoreProject/goLAPS">goLAPS</a>: A Go setter/getter for property ms-Mcs-AdmPwd used by LAPS</li>
