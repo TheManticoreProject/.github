@@ -11,6 +11,8 @@ The Manticore Project is a collective of Go developers and security researchers 
     <li><a href="https://www.github.com/TheManticoreProject/DescribeKeyCredentialLink">DescribeKeyCredentialLink</a>: A cross-platform tool to parse and describe the contents of a raw msDS-KeyCredentialLink data blob</li>
     <li><a href="https://www.github.com/TheManticoreProject/DescribeNTSecurityDescriptor">DescribeNTSecurityDescriptor</a>: A cross-platform tool to parse and describe the contents of a raw ntSecurityDescriptor structure</li>
     <li><a href="https://www.github.com/TheManticoreProject/FindGPPPasswords">FindGPPPasswords</a>: A cross-platform tool to find and decrypt Group Policy Preferences passwords from the SYSVOL share using low-privileged domain accounts</li>
+    <li><a href="https://www.github.com/TheManticoreProject/FindOldSIDTraces">FindOldSIDTraces</a>: A cross-platform tool to find traces of old SIDs remaining in LDAP objects of the Active Directory.</li>
+    <li><a href="https://www.github.com/TheManticoreProject/FindReusedKeyCredentials">FindReusedKeyCredentials</a>: A cross-platform tool to find reused key credentials on multiple objects in Active Directory.</li>
     <li><a href="https://www.github.com/TheManticoreProject/goLAPS">goLAPS</a>: A Go setter/getter for property ms-Mcs-AdmPwd used by LAPS</li>
     <li><a href="https://www.github.com/TheManticoreProject/keytab">keytab</a>: A cross platform tool to work with keytab files used by Kerberos to store authentication information</li>
     <li><a href="https://www.github.com/TheManticoreProject/LDAPWordlistHarvester">LDAPWordlistHarvester</a>: A tool that allows you to extract a client-specific wordlist from the LDAP of an Active Directory</li>
