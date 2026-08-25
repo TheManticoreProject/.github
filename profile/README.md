@@ -7,17 +7,15 @@ The Manticore Project is a collective of Go developers and security researchers 
 ---
 
 <details open><summary><h3>Tools</h3></summary><ul>
-    <li><a href="https://www.github.com/TheManticoreProject/Delegations">Delegations</a>: A tool to work with all types of Kerberos delegations (unconstrained, constrained, and resource-based constrained delegations) in Active Directory</li>
-    <li><a href="https://www.github.com/TheManticoreProject/DescribeKeyCredentialLink">DescribeKeyCredentialLink</a>: A cross-platform tool to parse and describe the contents of a raw msDS-KeyCredentialLink data blob</li>
-    <li><a href="https://www.github.com/TheManticoreProject/DescribeNTSecurityDescriptor">DescribeNTSecurityDescriptor</a>: A cross-platform tool to parse and describe the contents of a raw ntSecurityDescriptor structure</li>
-    <li><a href="https://www.github.com/TheManticoreProject/ExtractAS400LickeysFromDisk">ExtractAS400LickeysFromDisk</a>: A cross-platform tool to parse and extract licence keys from disk images of IBM AS/400, iSeries and Power Systems.
-    <li><a href="https://www.github.com/TheManticoreProject/FindGPPPasswords">FindGPPPasswords</a>: A cross-platform tool to find and decrypt Group Policy Preferences passwords from the SYSVOL share using low-privileged domain accounts</li>
-    <li><a href="https://www.github.com/TheManticoreProject/FindOldSIDTraces">FindOldSIDTraces</a>: A cross-platform tool to find traces of old SIDs remaining in LDAP objects of the Active Directory.</li>
-    <li><a href="https://www.github.com/TheManticoreProject/FindReusedKeyCredentials">FindReusedKeyCredentials</a>: A cross-platform tool to find reused key credentials on multiple objects in Active Directory.</li>
-    <li><a href="https://www.github.com/TheManticoreProject/goLAPS">goLAPS</a>: A Go setter/getter for property ms-Mcs-AdmPwd used by LAPS</li>
-    <li><a href="https://www.github.com/TheManticoreProject/keytab">keytab</a>: A cross platform tool to work with keytab files used by Kerberos to store authentication information</li>
-    <li><a href="https://www.github.com/TheManticoreProject/LDAPWordlistHarvester">LDAPWordlistHarvester</a>: A tool that allows you to extract a client-specific wordlist from the LDAP of an Active Directory</li>
-    <li><a href="https://www.github.com/TheManticoreProject/SIDTool">SIDTool</a>: A cross-platform tool to work with Security Identifiers (SID) formats</li> 
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-adidns">manticore-adidns</a>: Query, add, modify, remove, and resurrect Active Directory-integrated DNS records (A, AAAA, NS, CNAME, SOA, SRV) and enumerate and inspect DNS zones on a domain controller over LDAP</li>
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-changepassword">manticore-changepassword</a>: Change and reset Active Directory account passwords (plaintext or NTLM hashes) on domain controllers over MS-SAMR (SMB or MS-RPC transport) and LDAP</li>
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-cve">manticore-cve</a>: CVE exploitation toolkit with a hierarchical command structure to list available years and CVE IDs and run individual CVE exploitation modules</li>
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-keycredentials">manticore-keycredentials</a>: Create, enroll, attach, describe, list, find, extract, remove, and flush shadow credentials (msDS-KeyCredentialLink entries, their RSA key material, and device IDs) on Active Directory accounts over LDAP</li>
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-msrpc">manticore-msrpc</a>: Enumerate, monitor, and fuzz MS-RPC interfaces through a target's endpoint mapper</li>
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-registry">manticore-registry</a>: Read, write, search, back up, compare, secure, and live-monitor the Windows registry (keys, values, and ACLs) on remote hosts over MS-RRP (the Remote Registry protocol, \winreg over DCE/RPC over SMB)</li>
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-sidtool">manticore-sidtool</a>: Convert, describe, and look up Windows Security Identifiers (revision level, identifier authority, sub-authorities, and relative identifier) in their string, hexadecimal, base64, and raw bytes representations</li>
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-smbexec">manticore-smbexec</a>: Run commands and open a semi-interactive shell as SYSTEM (cmd and PowerShell payloads, output staged on a writable share) on remote Windows hosts over MS-SCMR</li>
+    <li><a href="https://www.github.com/TheManticoreProject/manticore-zerologon">manticore-zerologon</a>: Detect and exploit the Zerologon authentication bypass (CVE-2020-1472) on Active Directory domain controllers over MS-NRPC</li>
     </ul>
 </details>
 
